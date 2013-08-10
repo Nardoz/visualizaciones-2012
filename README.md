@@ -26,8 +26,3 @@ Original repos:
 
 * [AutoViz](https://github.com/RestOpenGov/autoViz)
 * [ResOpenGov demos](https://github.com/RestOpenGov/RestOpenGov/tree/master/demos/visualizaciones)
-
-
-
-
-

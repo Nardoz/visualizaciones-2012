@@ -22,6 +22,11 @@ Tools using:
 * [RestOpenGov](http://restopengovorg/) not anymore, the data source was replaced by static files.
 * Twitter Boostrap + Booswatch theme
 
+Original repos:
+
+* [AutoViz](https://github.com/RestOpenGov/autoViz)
+* [ResOpenGov demos](https://github.com/RestOpenGov/RestOpenGov/tree/master/demos/visualizaciones)
+
 
 
 

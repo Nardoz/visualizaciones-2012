@@ -1,2 +1,28 @@
-visualizaciones-2012
-====================
+Data visualizations
+===================
+
+Simple data visualizations about:
+
+* National Government Budget splitted by categories and sub-categories.
+* Car sale across the country splitted by states.
+
+Created by #NARDOZ during 2012:
+
+* Alan Reid
+* Sebastián Scarano
+* Pablo Paladino
+* Matías Urbano
+
+Tools using:
+
+* Scala, to scrape information.
+* LowDash
+* jQuery
+* [The JIT](http://philogb.github.io/jit/)
+* [RestOpenGov](http://restopengovorg/) not anymore, the data source was replaced by static files.
+* Twitter Boostrap + Booswatch theme
+
+
+
+
+

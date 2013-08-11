@@ -16,7 +16,7 @@ Created by #NARDOZ during 2012:
 Tools using:
 
 * Scala, to scrape information.
-* LowDash
+* [Lo-Dash](http://lodash.com/)
 * jQuery
 * [The JIT](http://philogb.github.io/jit/)
 * [RestOpenGov](http://restopengovorg/) not anymore, the data source was replaced by static files.
